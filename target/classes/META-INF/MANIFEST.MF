@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: Team Development Management
+Implementation-Version: 0.0.1
+Built-By: fergicci
+Implementation-Vendor-Id: com.gicci.sport
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/tdm/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
