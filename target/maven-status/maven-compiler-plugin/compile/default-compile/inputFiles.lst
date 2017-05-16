@@ -1,5 +1,9 @@
 /Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/Player.java
 /Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/Sport.java
 /Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/Team.java
+/Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/Task.java
+/Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/Workout.java
 /Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/TeamType.java
+/Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/Activity.java
+/Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/ActivityResult.java
 /Users/fergicci/Develop/projects/java/tdm/src/main/java/com/gicci/sport/tdm/model/TeamPlayer.java
