@@ -1,0 +1,12 @@
+com/gicci/sport/tdm/model/ActivityResult.class
+com/gicci/sport/tdm/controller/DashboardController.class
+com/gicci/sport/tdm/model/Sport.class
+com/gicci/sport/tdm/model/Workout.class
+com/gicci/sport/tdm/model/Activity.class
+com/gicci/sport/tdm/model/Task.class
+com/gicci/sport/tdm/model/TeamPlayer.class
+com/gicci/sport/tdm/model/TeamType.class
+com/gicci/sport/tdm/model/Team.class
+com/gicci/sport/tdm/controller/TeamController.class
+com/gicci/sport/tdm/config/TdmApplication.class
+com/gicci/sport/tdm/model/Player.class
